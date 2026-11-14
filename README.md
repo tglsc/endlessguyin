@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=✦%20TGLSC%20✦&fontSize=50&animation=fadeIn&fontAlignY=32&desc=Official%20TGLSC%20Account&descAlignY=62&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bcd4&height=180&section=header&text=TGLSC&fontSize=70&fontColor=ffffff" width="100%" alt="TGLSC" />
 
   <h3>
-    Managed by Marki (<code>@marki_.1</code>) (Head Owner) and q8j (<code>@q8j._</code>) (Co-Owner)
+    Made and Managed Mainly by Marki (<code>@tglsc</code>)
   </h3>
   
   <p>
-    Creating unblocked experiences, APIs, and web solutions.
+    devs include q8j. and wowdevcox
   </p>
 
   <a href="https://discord.com/invite/mqGRCEAuna">
-    <img src="https://img.shields.io/discord/1146196232230015097?color=5865F2&label=Join%20our%20Discord&logo=discord&logoColor=white&style=for-the-badge" alt="Discord">
+    <img src="https://img.shields.io/badge/Discord%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </div>
 
@@ -25,10 +25,8 @@
     <td width="33%" align="center" valign="top" style="border: none;">
       <h3>TGLSC</h3>
       <p>An extensive unblocked games website hosting a massive collection of titles.</p>
-      <br />
-      <a href="https://github.com/q8j-dev">
-        <img src="https://img.shields.io/badge/Dev_Profile-q8j._-black?style=for-the-badge&logo=github&logoColor=white" height="28">
-      </a>
+      <br/>
+      <p><a href="https://glseries.net">glseries.net</a></p>
     </td>
     <td width="33%" align="center" valign="top" style="border: none;">
       <h3>GDAB Improved</h3>
@@ -39,12 +37,10 @@
       </a>
     </td>
     <td width="33%" align="center" valign="top" style="border: none;">
-      <h3>TGLSC API</h3>
-      <p>A powerful and flexible Discord RPC API for seamless integrations.</p>
+      <h3>Marly</h3>
+      <p>A Spin-Off website of TGLSC, but with experimental features and a different design.</p>
       <br />
-      <a href="https://api.marki.my">
-        <img src="https://img.shields.io/badge/Visit_API-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="28">
-      </a>
+      <img src="https://img.shields.io/badge/Coming-2027-181717?style=for-the-badge" height="28">
     </td>
   </tr>
 </table>
@@ -65,5 +61,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bcd4&height=100&section=footer" width="100%" />
 </div>
